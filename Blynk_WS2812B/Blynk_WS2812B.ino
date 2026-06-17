@@ -1,4 +1,4 @@
-#define BLYNK_AUTH_TOKEN 0-eISPRDiYf1zM6Dc0w_khEIU1kVa-xh
+#define BLYNK_AUTH_TOKEN "Your Auth Token"
 #define BLYNK_TEMPLATE_ID "TMPL6azQDIat7"
 #define BLYNK_TEMPLATE_NAME "ZRGBA"
 #define BLYNK_PRINT Serial
@@ -12,8 +12,8 @@
 #define NUMPIXELS 10  // Number of you led
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
-char ssid[] = "kutynidx";
-char pass[] = "kuznetsov";
+char ssid[] = "Your SSID";
+char pass[] = "Your Password";
 
 const byte interruptPin = 0;
 
