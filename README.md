@@ -90,7 +90,6 @@ char pass[] = "YOUR_PASSWORD";
 ```text
 ├── src/
 │   └── main.ino
-├── images/
 ├── README.md
 ├── LICENSE
 └── LICENSE-GPLv2
