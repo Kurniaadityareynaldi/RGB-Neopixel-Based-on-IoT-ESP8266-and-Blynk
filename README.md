@@ -103,6 +103,14 @@ This project was developed using an older version of Blynk. Migration to the lat
 
 ---
 
+## 👨‍💻 Author
+
+Kurnia Aditya Reynaldi
+
+Contributions, issues, and pull requests are welcome.
+
+---
+
 ## 📜 License
 
 This project is dual-licensed under:
@@ -111,11 +119,3 @@ This project is dual-licensed under:
 * Commercial License
 
 See the LICENSE file for details.
-
----
-
-## 👨‍💻 Author
-
-Kurnia Aditya Reynaldi
-
-Contributions, issues, and pull requests are welcome.
