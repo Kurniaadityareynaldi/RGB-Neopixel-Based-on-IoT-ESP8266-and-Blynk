@@ -85,18 +85,6 @@ char pass[] = "YOUR_PASSWORD";
 
 ---
 
-## 📂 Project Structure
-
-```text
-├── src/
-│   └── main.ino
-├── README.md
-├── LICENSE
-└── LICENSE-GPLv2
-```
-
----
-
 ## ⚠️ Important Note
 
 This project was developed using an older version of Blynk. Migration to the latest Blynk IoT platform may be required.
@@ -105,7 +93,9 @@ This project was developed using an older version of Blynk. Migration to the lat
 
 ## 👨‍💻 Author
 
-Kurnia Aditya Reynaldi
+**Kurnia Aditya Reynaldi**
+
+Electrical Engineer | Embedded Systems | Control Systems | Electronics R&D
 
 Contributions, issues, and pull requests are welcome.
 
